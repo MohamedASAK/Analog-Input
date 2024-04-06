@@ -12,7 +12,7 @@ In this project i use
 
 5- Resistors with 330 OHM, 1/16 WATT
 
-6- Rheostat by change it value light is change 
+6- Rheostat by change it value light brightness intensity is change
 
 7- Power
 
